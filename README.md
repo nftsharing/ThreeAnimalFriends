@@ -20,8 +20,6 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
-<a href=”https://www.linkedin.com/in/yushi95/"><img align=”left” src=”https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt=”Yu Shi | LinkedIn” width=”21px”/></a>
-
 Relative links as follows:
 
 [https://opensea.io/collection/five-men-and-five-women](https://opensea.io/collection/five-men-and-five-women)
