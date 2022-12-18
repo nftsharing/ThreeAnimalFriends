@@ -18,11 +18,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [Woman #4](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439569957292615440)
 [Woman #5](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439571056804243216)
 
-<p align=”center”>
-
-<img width=”200" height=”200" src=”https://user-images.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
-
-</p>
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 Relative links as follows:
 
