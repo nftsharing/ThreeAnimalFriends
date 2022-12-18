@@ -7,7 +7,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 [![five-men-and-five-women](/logo/Banner.png)](https://opensea.io/collection/five-men-and-five-women)
 
-[![Man #1](https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png)](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439561161199593232)
+[Man #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439561161199593232)
 [Man #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439562260711221008)
 [Man #3](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439563360222848784)
 [Man #4](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439564459734476560)
@@ -20,7 +20,9 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&w=750
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
+
+<img alt="Man #2" sizes="(max-width: 600px) 200px, 380px" srcset="https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=48 48w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=64 64w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=128 128w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=256 256w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=384 384w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=512 512w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=640 640w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=750 750w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=828 828w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=1080 1080w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=1200 1200w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=1920 1920w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=2048 2048w, https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=3840 3840w" src="https://i.seadn.io/gcs/files/41d5d3fbd4c524faaa0c11f681b9ac75.png?auto=format&amp;w=3840" decoding="async" data-nimg="fill" style="position: absolute; inset: 0px; box-sizing: border-box; padding: 0px; border: none; margin: auto; display: block; width: 0px; height: 0px; min-width: 100%; max-width: 100%; min-height: 100%; max-height: 100%; object-fit: contain;">
+
 
 Relative links as follows:
 
