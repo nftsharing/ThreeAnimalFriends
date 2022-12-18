@@ -1,3 +1,5 @@
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+
 # Welcome to Homepage of Five Men and Five Women
 We startup NTF collections on opensea to bring you health, wealth and happiness, as follows.
  
