@@ -33,8 +33,14 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 
 <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
 <nft-card
-  tokenAddress="0x5caebd3b32e210e85ce3e9d51638b9c445481567"
-  tokenId="2242579050293992223"
+  tokenAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+  tokenId="75684477058948958895532384377069773609087076397756298439441439565559246104336"
+  network="mainnet"
+  >
+</nft-card>
+<nft-card
+  tokenAddress="0x495f947276749ce646f68ac8c248420045cb7b5e"
+  tokenId="75684477058948958895532384377069773609087076397756298439441439566658757732112"
   network="mainnet"
   >
 </nft-card>
