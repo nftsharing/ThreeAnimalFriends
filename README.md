@@ -5,7 +5,7 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 ## Description
 [Three Animal Friends](https://opensea.io/collection/three-animal-friends) is a collection of 4 unique NFTs living on the Ethereum blockchain. They have secret energy power that could bring health, wealth and happiness to you.
 
-[![Three Animal Friends](/logo/Banner.png)](https://opensea.io/collection/three-animal-friends)
+[![Three Animal Friends](/logo/TAFBanner.png)](https://opensea.io/collection/three-animal-friends)
 
 [Three Animal Friends #1](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439574355339116545)
 [Three Animal Friends #2](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439572156315860993)
