@@ -31,8 +31,13 @@ We startup NTF collections on opensea to bring you health, wealth and happiness,
 [<img alt="Woman #4" src="https://i.seadn.io/gcs/files/10c40992ac1af4cf6edd78fa86ca7c29.png" width="50px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439569957292615440)
 [<img alt="Woman #5" src="https://i.seadn.io/gcs/files/5bbb198549b1e7ea7d55c96dbe6089c7.png" width="50px">](https://opensea.io/assets/ethereum/0x495f947276749ce646f68ac8c248420045cb7b5e/75684477058948958895532384377069773609087076397756298439441439571056804243216)
 
-<iframe src="https://opensea.io/assets/boredapeyachtclub?embed=true&ref=0x9361c1bbe1c7e3197758414b49d19bce1241668a"></iframe>
-
+<script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
+<nft-card
+  tokenAddress="0x5caebd3b32e210e85ce3e9d51638b9c445481567"
+  tokenId="2242579050293992223"
+  network="mainnet"
+  >
+</nft-card>
 ## Relative links as follows:
 
 [https://t.me/NFT_sharing_opensea](https://t.me/NFT_sharing_opensea)
